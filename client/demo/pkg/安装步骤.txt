@@ -1,0 +1,37 @@
+﻿1.拷贝Duik Bassel.2.jsx到AE安装目录下的如下位置：
+Win：Adobe After Effects CC 2019\Support Files\Scripts\ScriptUI Panels
+Mac：应用程序\Adobe After Effects CC 2019\Scripts\ScriptUI Panels
+
+
+2.打开AE，在顶部菜单位置,
+Win：编辑-首选项-常规
+Mac：After Effects CC-首选项-常规
+勾选上允许脚本读写和访问网络
+
+最新版本的2019.1或者更高版本的位置在：
+Win：编辑-首选项-脚本和表达式
+Mac：After Effects CC-首选项-脚本和表达式
+勾选上允许写入文件和访问网络
+
+
+3.勾选之后在AE的顶部菜单，窗口 下拉的最下面，就可以看到脚本Duik Bassel.2了
+
+
+Optional Panels里面是一些可选安装的脚本，根据自己的需要安装，不安装也不会影响Duik的
+安装的话 也是拷贝到ScriptUI Panels即可
+
+
+
+
+
+
+
+龋齿一号GFXCamp：http://www.gfxcamp.com/
+
+MG教程网：http://www.mgtut.com/
+
+淘宝店铺：http://gfxcampcg.taobao.com/
+
+龋齿一号新浪博客：http://blog.sina.com.cn/u/1836879691
+
+龋齿一号GFXCamp新浪微博：http://weibo.com/gfxcamp
