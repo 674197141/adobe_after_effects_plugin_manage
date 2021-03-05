@@ -1,0 +1,20 @@
+{
+    "father_pkg":"Duik",
+    "is_child":true,
+    "pkg_name": "duik2 其他工具包",
+    "version": "v16.2.13",
+    "to_path": "\\Scripts\\ScriptUI Panels",
+    "scrpts_file": [
+        "Duik Animation.jsx",
+        "Duik Automations.jsx",
+        "Duik Automations.jsx",
+        "Duik Camera.jsx",
+        "Duik Cmd.jsx",
+        "Duik Constraints.jsx",
+        "Duik Controllers.jsx",
+        "Duik Notes.jsx",
+        "Duik Rigging.jsx",
+        "Duik Structures.jsx",
+        "Duik Tools.jsx"
+    ]
+}
